@@ -25,7 +25,7 @@
   - Open in the integrated terminal. Run "node index.js", submit answers to each prompt. See video.
 
   ## Usage
- [![walk through video](https://img.youtube.com/vi/CWfC-zUNhuc)](https://www.youtube.com/watch?v=CWfC-zUNhuc)
+ [![walk through video](https://img.youtube.com/vi/CWfC-zUNhuc/0.jpg)](https://www.youtube.com/watch?v=CWfC-zUNhuc)
  
   ## Features
   - undefined
